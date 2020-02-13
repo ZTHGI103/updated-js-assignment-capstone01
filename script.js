@@ -1,6 +1,4 @@
 
-
-
 var country = [
   //0 index Australia
   {
